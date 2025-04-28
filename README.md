@@ -5,7 +5,7 @@ Hi there, I'm Ali 👋
 🏆 3rd place winner at the Fetch.ai Global Hackathon
 🛠️ Focused on building SaaS tools, automation platforms, and AI-driven products
 📈 Exploring quantum computing, decentralized finance, and real-world machine learning applications
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/alialtowaiji)
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/alitowaiji)
 
 🔧 Skills:
 Languages: Python, Java, C, JavaScript, R
